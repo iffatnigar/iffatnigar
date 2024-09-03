@@ -1,7 +1,7 @@
 <!-- Hello I'm B Iffat Nigar -->
 
 <div align="center">
-  <img height="160" src="./images/github-banner-1.png" loading="lazy"/>
+  <img height="160" src="./assets/banner-1.png" loading="lazy"/>
   <br>
 </div>
 
